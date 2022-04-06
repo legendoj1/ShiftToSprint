@@ -13,10 +13,10 @@ Setup instructions should already be at the top of the script file found in the 
 4. Either of the shift keys should now make your character sprint when you press them
 
 **FOR ROJO/GITHUB INSTALLATION**
-1. Download the script from the repository; it's titled "ShiftToSprint.client.lua"
-    - Get the most recent release from the following link: 
+1. Download the script OR model from the [releases page](https://github.com/legendoj1/ShiftToSprint/releases/tag/1)
+    - The script is intended to be integrated into a Rojo workflow; the RBXM model can be dragged into Studio
 3. Insert the script into Studio or your Rojo project
-    - Note that if it is Rojo the file extension of ".client.lua" is important!
+    - Note that if it is Rojo the file extension of ".client.lua" is important, so make sure you download the script!
 4. Place the script in a client-sided folder such as StarterPlayerScripts or StarterGui
 5. Feel free to make edits to the existing code 
 6. Either of the shift keys should now make your character sprint when you press them
