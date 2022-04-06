@@ -1,5 +1,7 @@
 ## Shift To Sprint by LegendOJ1
 
+#### Free to use scripts without the risk of copyright takedown. No credit required.
+
 An open source client-sided shift-to-sprint script.
 
 ## Instructions For Use
